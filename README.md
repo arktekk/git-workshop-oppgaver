@@ -8,6 +8,7 @@ Før du setter igang:
 
  1. Installer Git. Du finner siste versjon hos http://git-scm.org
  2. Klon dette repositoriet. URL for å klone finner du litt lenger oppe på siden
+ 3. Konfigurer Git med ditt navn og epost
 
 Problem 1 - Merging
 -------------------
