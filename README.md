@@ -18,7 +18,7 @@ For denne oppgaven skal vi ta utgangspunkt i 2 brancher:
  * problem1a
  * problem1b
 
-Merge oppgave1b inn i oppgave1a. Commit lokalt.
+Merge problem1b inn i problem1a. Commit lokalt.
 
 Problem 2 - Merging med konflikter
 ----------------------------------
@@ -30,7 +30,7 @@ Bruk branchene:
  * problem2a
  * problem2b
 
-Merge oppgave2b inn i oppgave2a, løs konflikten, og commit lokalt. Husk at alle
+Merge problem2b inn i problem2a, løs konflikten, og commit lokalt. Husk at alle
 endringene skal med i commiten.
 
 Problem 3 - Rebasing
@@ -62,3 +62,6 @@ Lag en tag. Prøv hvordan man kan flytte workding directorien din frem og tilbak
 brancher og tags.
 
 Slett branchene som ble opprettet.
+
+Opprett en konto på GitHub og lag et repository. Utforsk bruk av remote
+repositories.
