@@ -1,7 +1,7 @@
 package no.arktekk;
 
 /**
- * Hello world!
+ * Hei alle sammen!
  *
  */
 public class App 
