@@ -18,7 +18,8 @@ For denne oppgaven skal vi ta utgangspunkt i 2 brancher:
  * problem1a
  * problem1b
 
-Merge problem1b inn i problem1a. Commit lokalt.
+Merge problem1b inn i problem1a. Se hvordan branchene ble merget med feks `git
+log --graph` eller `gitk`.
 
 Problem 2 - Merging med konflikter
 ----------------------------------
@@ -41,8 +42,8 @@ Bruk branchene:
  * problem3a
  * problem3b
 
-Rebase problem3b inn på problem3a. Commit lokalt. Se at du får fast-forwardet
-problem3a etter rebasingen.
+Rebase problem3b inn på problem3a. Verifiser at du får fast-forwardet problem3a etter 
+rebasingen.
 
 Problem 4 - Rebasing med konflikter
 -----------------------------------
@@ -52,7 +53,7 @@ Bruk branchene:
  * problem4a
  * problem4b
 
-Rebase problem4b inn på problem4a, løs konflikten, gjør ferdig rebasingen.
+Rebase problem4b inn på problem4a, løs konflikten, og gjør ferdig rebasingen.
 
 Problem 5 - Branches & Tags
 ---------------------------
